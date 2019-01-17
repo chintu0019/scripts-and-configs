@@ -61,7 +61,9 @@ bindsym $mod+F2 exec chromium
 bindsym $mod+F3 exec pcmanfm
 # bindsym $mod+F3 exec ranger
 bindsym $mod+Shift+F3 exec gksu pcmanfm
-bindsym $mod+F5 exec terminal -e 'mocp'
+bindsym $mod+F4 exec terminal -e 'mocp'
+bindsym $mod+F5 exec code
+bindsym $mod+F6 exec gitkraken
 bindsym $mod+t exec --no-startup-id pkill compton
 bindsym $mod+Ctrl+t exec --no-startup-id compton -b
 bindsym $mod+Shift+d --release exec "killall dunst; exec notify-send 'restart dunst'"
@@ -272,6 +274,7 @@ mode "resize" {
 
 # Lock screen
 bindsym $mod+9 exec --no-startup-id blurlock
+# bindsym $mod+9 exec --no-startup-id i3lock -i /usr/share/backgrounds/DSC_0364.JPG
 
 # Autostart applications
 exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
@@ -283,8 +286,8 @@ exec --no-startup-id pamac-tray
 exec --no-startup-id clipit
 exec --no-startup-id blueman-applet
 # exec_always --no-startup-id sbxkb
-exec --no-startup-id start_conky_maia
-#exec --no-startup-id start_conky_green
+#exec --no-startup-id start_conky_maia
+exec --no-startup-id start_conky_green
 exec --no-startup-id xautolock -time 10 -locker blurlock
 exec_always --no-startup-id ff-theme-util
 exec_always --no-startup-id fix_xcursor
@@ -332,15 +335,16 @@ bar {
 
 	bindsym button4 nop
 	bindsym button5 nop
-#   font xft:URWGothic-Book 11
+#    font xft:URWGothic-Book 11
+    font pango: FontAwesome, 9
 	strip_workspace_numbers yes
 
    colors {
-        background #283339
+        background #111111
         statusline #F9FAF9
         separator  #454947
 
-#                      border  backgr. text
+#                          border  backgr. text
         focused_workspace  #F9FAF9 #BEF12B #292F34
         active_workspace   #595B5B #353836 #FDF6E3
         inactive_workspace #595B5B #283339 #EEE8D5
@@ -434,3 +438,7 @@ exec_always --no-startup-id sh ~/gits/scripts-and-configs/Manjaro-i3/natural-scr
 # move focused workspace between monitors
 bindsym $mod+Ctrl+greater move workspace to output right
 bindsym $mod+Ctrl+less move workspace to output left
+
+# Rofi - window switcher and dmenu replacement
+bindsym $mod+Tab exec --no-startup-id rofi -show window
+bindsym $mod+Shift+Tab exec --no-startup-id rofi -show run
