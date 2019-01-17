@@ -1,0 +1,6 @@
+#!/bin/bash
+
+#conky -c /usr/share/conky/conky1.10_shortcuts_green &&
+conky -c /usr/share/conky/conky_green &&
+#conky -c /usr/share/conky/conky_qlocktwo &&
+exit 0
