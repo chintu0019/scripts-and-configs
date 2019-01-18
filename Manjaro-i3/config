@@ -28,7 +28,7 @@ font xft:URWGothic-Book 11
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec terminal
+bindsym $mod+Return exec i3-sensible-terminal
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -440,5 +440,5 @@ bindsym $mod+Ctrl+greater move workspace to output right
 bindsym $mod+Ctrl+less move workspace to output left
 
 # Rofi - window switcher and dmenu replacement
-bindsym $mod+Tab exec --no-startup-id rofi -show window
-bindsym $mod+Shift+Tab exec --no-startup-id rofi -show run
+bindsym Mod1+Tab exec --no-startup-id rofi -theme sidebar -show window
+bindsym $mod+Tab exec --no-startup-id rofi -theme gruvbox-dark-hard -show run
