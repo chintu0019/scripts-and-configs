@@ -1,0 +1,160 @@
+GTS Root R1
+Hongkong Post Root CA 3
+certSIGN ROOT CA G2
+TWCA Global Root CA
+emSign Root CA - G1
+QuoVadis Root CA 1 G3
+emSign ECC Root CA - C3
+D-TRUST Root Class 3 CA 2 EV 2009
+Certainly Root E1
+Certum Trusted Network CA
+Microsec e-Szigno Root CA 2009
+QuoVadis Root CA 2 G3
+Security Communication ECC RootCA1
+ISRG Root X2
+Hellenic Academic and Research Institutions RootCA 2015
+QuoVadis Root CA 3
+Amazon Root CA 1
+TrustCor ECA-1
+DigiCert Global Root G3
+HARICA TLS ECC Root CA 2021
+Security Communication RootCA1
+Go Daddy Root Certificate Authority - G2
+ISRG Root X1
+DigiCert Assured ID Root G2
+e-Szigno Root CA 2017
+Starfield Class 2 Certification Authority
+DigiCert Global Root CA
+TeliaSonera Root CA v1
+Entrust Root Certification Authority - EC1
+Certigna Root CA
+DigiCert TLS RSA4096 Root G5
+Autoridad de Certificacion Firmaprofesional CIF A62634068
+Microsoft RSA Root Certificate Authority 2017
+Buypass Class 3 Root CA
+UCA Global G2 Root
+GlobalSign Root R46
+DigiCert Global Root G2
+NetLock Arany (Class Gold) Főtanúsítvány
+SSL.com EV Root Certification Authority ECC
+Trustwave Global Certification Authority
+SSL.com EV Root Certification Authority RSA R2
+IdenTrust Commercial Root CA 1
+Hongkong Post Root CA 1
+Certainly Root R1
+SSL.com Root Certification Authority ECC
+AffirmTrust Premium
+DigiCert TLS ECC P384 Root G5
+E-Tugra Global Root CA RSA v3
+Security Communication RootCA3
+Izenpe.com
+Microsoft ECC Root Certificate Authority 2017
+Trustwave Global ECC P384 Certification Authority
+Certigna
+Hellenic Academic and Research Institutions ECC RootCA 2015
+Actalis Authentication Root CA
+Amazon Root CA 4
+ACCVRAIZ1
+SecureTrust CA
+Go Daddy Class 2 Certification Authority
+GlobalSign
+DigiCert High Assurance EV Root CA
+AC RAIZ FNMT-RCM
+SSL.com Root Certification Authority RSA
+GTS Root R4
+DigiCert Assured ID Root CA
+Amazon Root CA 2
+D-TRUST Root Class 3 CA 2 2009
+D-TRUST BR Root CA 1 2020
+NAVER Global Root Certification Authority
+certSIGN ROOT CA
+Starfield Services Root Certificate Authority - G2
+TunTrust Root CA
+Entrust Root Certification Authority
+QuoVadis Root CA 2
+SZAFIR ROOT CA2
+TrustCor RootCert CA-1
+Amazon Root CA 3
+IdenTrust Public Sector Root CA 1
+AffirmTrust Premium ECC
+CA Disig Root R2
+vTrus ECC Root CA
+DigiCert Assured ID Root G3
+Buypass Class 2 Root CA
+Secure Global CA
+GlobalSign Root E46
+ANF Secure Server Root CA
+GlobalSign
+QuoVadis Root CA 3 G3
+USERTrust RSA Certification Authority
+TWCA Root Certification Authority
+AffirmTrust Networking
+T-TeleSec GlobalRoot Class 3
+Baltimore CyberTrust Root
+HiPKI Root CA - G1
+E-Tugra Certification Authority
+Certum Trusted Network CA 2
+COMODO ECC Certification Authority
+UCA Extended Validation Root
+Atos TrustedRoot 2011
+Trustwave Global ECC P256 Certification Authority
+Entrust Root Certification Authority - G2
+GLOBALTRUST 2020
+TrustCor RootCert CA-2
+emSign ECC Root CA - G3
+Certum Trusted Root CA
+OISTE WISeKey Global Root GC CA
+AffirmTrust Commercial
+SwissSign Silver CA - G2
+Starfield Root Certificate Authority - G2
+GlobalSign
+Certum EC-384 CA
+Telia Root CA v2
+TUBITAK Kamu SM SSL Kok Sertifikasi - Surum 1
+XRamp Global Certification Authority
+GTS Root R2
+SwissSign Gold CA - G2
+DigiCert Trusted Root G4
+D-TRUST EV Root CA 1 2020
+GDCA TrustAUTH R5 ROOT
+Entrust Root Certification Authority - G4
+AAA Certificate Services
+emSign Root CA - C1
+HARICA TLS RSA Root CA 2021
+COMODO RSA Certification Authority
+SecureSign RootCA11
+Entrust.net Certification Authority (2048)
+USERTrust ECC Certification Authority
+E-Tugra Global Root CA ECC v3
+COMODO Certification Authority
+GlobalSign Root CA
+OISTE WISeKey Global Root GB CA
+GTS Root R3
+AC RAIZ FNMT-RCM SERVIDORES SEGUROS
+GlobalSign
+CFCA EV ROOT
+ePKI Root Certification Authority
+Autoridad de Certificacion Firmaprofesional CIF A62634068
+Security Communication RootCA2
+vTrus Root CA
+T-TeleSec GlobalRoot Class 2
+Camerfirma Chambers of Commerce Root
+Certum Root CA
+Chambers of Commerce Root - 2008
+D-TRUST Root CA 3 2013
+DIGITALSIGN GLOBAL ROOT ECDSA CA
+DIGITALSIGN GLOBAL ROOT RSA CA
+DigiCert SMIME ECC P384 Root G5
+DigiCert SMIME RSA4096 Root G5
+Explicitly Distrust DigiNotar Root CA
+GlobalSign Secure Mail Root E45
+GlobalSign Secure Mail Root R45
+Global Chambersign Root - 2008
+HARICA Client ECC Root CA 2021
+HARICA Client RSA Root CA 2021
+OISTE WISeKey Global Root GA CA
+Staat der Nederlanden Root CA - G3
+Symantec Class 1 Public Primary Certification Authority - G6
+Symantec Class 2 Public Primary Certification Authority - G6
+Verisign Class 1 Public Primary Certification Authority - G3
+Verisign Class 2 Public Primary Certification Authority - G3

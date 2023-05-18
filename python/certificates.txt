@@ -1,0 +1,140 @@
+AAA Certificate Services
+ACCVRAIZ1
+AC RAIZ FNMT-RCM
+AC RAIZ FNMT-RCM SERVIDORES SEGUROS
+Actalis Authentication Root CA
+AffirmTrust Commercial
+AffirmTrust Networking
+AffirmTrust Premium ECC
+AffirmTrust Premium
+Amazon Root CA 1
+Amazon Root CA 2
+Amazon Root CA 3
+Amazon Root CA 4
+ANF Secure Server Root CA
+Atos TrustedRoot 2011
+Autoridad de Certificacion Firmaprofesional CIF A62634068.1
+Autoridad de Certificacion Firmaprofesional CIF A62634068
+Baltimore CyberTrust Root
+Buypass Class 2 Root CA
+Buypass Class 3 Root CA
+CA Disig Root R2
+Certainly Root E1
+Certainly Root R1
+Certigna
+Certigna Root CA
+certSIGN ROOT CA G2
+certSIGN ROOT CA
+Certum EC-384 CA
+Certum Trusted Network CA 2
+Certum Trusted Network CA
+Certum Trusted Root CA
+CFCA EV ROOT
+COMODO Certification Authority
+COMODO ECC Certification Authority
+COMODO RSA Certification Authority
+DigiCert Assured ID Root CA
+DigiCert Assured ID Root G2
+DigiCert Assured ID Root G3
+DigiCert Global Root CA
+DigiCert Global Root G2
+DigiCert Global Root G3
+DigiCert High Assurance EV Root CA
+DigiCert TLS ECC P384 Root G5
+DigiCert TLS RSA4096 Root G5
+DigiCert Trusted Root G4
+D-TRUST BR Root CA 1 2020
+D-TRUST EV Root CA 1 2020
+D-TRUST Root Class 3 CA 2 2009
+D-TRUST Root Class 3 CA 2 EV 2009
+emSign ECC Root CA - C3
+emSign ECC Root CA - G3
+emSign Root CA - C1
+emSign Root CA - G1
+Entrust.net Certification Authority  2048 
+Entrust Root Certification Authority - EC1
+Entrust Root Certification Authority - G2
+Entrust Root Certification Authority - G4
+Entrust Root Certification Authority
+ePKI Root Certification Authority
+e-Szigno Root CA 2017
+E-Tugra Certification Authority
+E-Tugra Global Root CA ECC v3
+E-Tugra Global Root CA RSA v3
+GDCA TrustAUTH R5 ROOT
+GlobalSign.1
+GlobalSign.2
+GlobalSign.3
+GlobalSign
+GlobalSign Root CA
+GlobalSign Root E46
+GlobalSign Root R46
+GLOBALTRUST 2020
+Go Daddy Class 2 Certification Authority
+Go Daddy Root Certificate Authority - G2
+GTS Root R1
+GTS Root R2
+GTS Root R3
+GTS Root R4
+HARICA TLS ECC Root CA 2021
+HARICA TLS RSA Root CA 2021
+Hellenic Academic and Research Institutions ECC RootCA 2015
+Hellenic Academic and Research Institutions RootCA 2015
+HiPKI Root CA - G1
+Hongkong Post Root CA 1
+Hongkong Post Root CA 3
+IdenTrust Commercial Root CA 1
+IdenTrust Public Sector Root CA 1
+ISRG Root X1
+ISRG Root X2
+Izenpe.com
+Microsec e-Szigno Root CA 2009
+Microsoft ECC Root Certificate Authority 2017
+Microsoft RSA Root Certificate Authority 2017
+NAVER Global Root Certification Authority
+NetLock Arany  Class Gold  F  tan  s  tv  ny
+OISTE WISeKey Global Root GB CA
+OISTE WISeKey Global Root GC CA
+QuoVadis Root CA 1 G3
+QuoVadis Root CA 2 G3
+QuoVadis Root CA 2
+QuoVadis Root CA 3 G3
+QuoVadis Root CA 3
+Secure Global CA
+SecureSign RootCA11
+SecureTrust CA
+Security Communication ECC RootCA1
+Security Communication RootCA1
+Security Communication RootCA2
+Security Communication RootCA3
+SSL.com EV Root Certification Authority ECC
+SSL.com EV Root Certification Authority RSA R2
+SSL.com Root Certification Authority ECC
+SSL.com Root Certification Authority RSA
+Starfield Class 2 Certification Authority
+Starfield Root Certificate Authority - G2
+Starfield Services Root Certificate Authority - G2
+SwissSign Gold CA - G2
+SwissSign Silver CA - G2
+SZAFIR ROOT CA2
+Telia Root CA v2
+TeliaSonera Root CA v1
+TrustCor ECA-1
+TrustCor RootCert CA-1
+TrustCor RootCert CA-2
+Trustwave Global Certification Authority
+Trustwave Global ECC P256 Certification Authority
+Trustwave Global ECC P384 Certification Authority
+T-TeleSec GlobalRoot Class 2
+T-TeleSec GlobalRoot Class 3
+TUBITAK Kamu SM SSL Kok Sertifikasi - Surum 1
+TunTrust Root CA
+TWCA Global Root CA
+TWCA Root Certification Authority
+UCA Extended Validation Root
+UCA Global G2 Root
+USERTrust ECC Certification Authority
+USERTrust RSA Certification Authority
+vTrus ECC Root CA
+vTrus Root CA
+XRamp Global Certification Authority

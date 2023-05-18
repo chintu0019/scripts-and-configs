@@ -31,15 +31,21 @@ def get_certificates():
     if os_type == "redhat":
         certificates = os.popen("ls /etc/pki/tls/certs").read()
     elif os_type == "debian" or os_type == "arch":
-        certificates = os.popen("ls /etc/ssl/certs | sed 's/_/ /g; s/.pem$//'").read()
+        certificates = os.popen("basename -a /etc/ssl/certs/*.pem | sed 's/_/ /g; s/.pem$//'").read()
     else:
         print("Unsupported Linux OS")
         sys.exit(1)
+    # write the certificates to a file
+    with open("certificates.txt", "w") as f:
+        f.write(certificates)
     return certificates
 
 # check which SSL certificates are trusted on the system
 def get_trusted_certificates():
     trusted_certificates = os.popen("trust list | grep -oP 'label: \K.*'").read()
+    # write the trusted certificates to a file
+    with open("trusted-certificates.txt", "w") as f:
+        f.write(trusted_certificates)
     return trusted_certificates
 
 # check which SSL certificates are not trusted on the system
@@ -50,6 +56,11 @@ def get_untrusted_certificates():
     for cert in certificates.split():
         if cert not in trusted_certificates:
             untrusted_certificates.append(cert)
+    # write the untrusted certificates to a file
+    with open("untrusted-certificates.txt", "w") as f:
+        # split the list into lines
+        untrusted_certificates = "\n".join(untrusted_certificates)
+        f.write(str(untrusted_certificates))
     return untrusted_certificates
 
 # main function
