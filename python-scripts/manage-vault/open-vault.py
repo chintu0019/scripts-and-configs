@@ -33,7 +33,7 @@ def dismount_vault():
     # check if the veracrypt volume is mounted
     if os.path.ismount("/mnt/veracrypt1/"):
         # dismount the veracrypt volume
-        os.system("veracrypt --text --non-interactive --dismount /mnt/veracrypt1/")
+        os.system("sudo veracrypt --text --non-interactive --dismount /mnt/veracrypt1/")
     else:
         print("veracrypt volume is not mounted")
 
